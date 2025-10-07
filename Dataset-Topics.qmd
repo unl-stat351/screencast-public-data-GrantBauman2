@@ -9,7 +9,7 @@ output: html
 Things you plan to investigate using this dataset:
 
 - Find stats about adoptable cats such as totals and averages for color, type, ect
-- create a dataframe of dogs and cats that I would adopt based on my requirments
+- create a dataframe of dogs and cats that I would adopt based on my requirments, maybe add images of them
 - find if cats in the city are more likely to be house trained than non city cats
 
 Stat 351 topics you plan to cover during the analysis:
