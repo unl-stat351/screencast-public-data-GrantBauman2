@@ -19,3 +19,14 @@ Stat 351 topics you plan to cover during the analysis:
 3. efficient data technique
 4. polite technique 
 
+---
+
+Comments
+
+- Efficient data technique? What does that mean, exactly?
+
+- I think you're going to have trouble getting enough information from this site to demonstrate challenging topics. Your project may fall a bit flat as a result. This only has points -- so you're limited to scoring at best, which isn't much depth. 
+
+- This isn't exactly "public agency/nonprofit" data as I'd envisioned it. 
+
+I would suggest choosing a different topic with data that's going to require more than a quick grab from the webpage and a bit of string separation to format. I just don't think you're going to get enough out of this to stay busy for an hour. 
