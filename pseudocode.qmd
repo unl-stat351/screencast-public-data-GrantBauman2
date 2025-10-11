@@ -1,6 +1,44 @@
 ---
-author: Your Name
+author: Grant Bauman
 title: Screencast Pseudocode
 output: html
 ---
+#install/initialize libraries
+library(httr2)
+library(tibble)
+library(dplyr)
+library(ggplot2)
+library(sf)
+
+#set and get oauth information (client_id, secret_id, access_token)
+
+build fetch_cat_page function
+  make query request of the API for cats, zipcode, adoptable, distance, ect.
+  make the cat info list from the request
+  use map_dfr to make tibble of needed cat information (breed, color, age, ect)
+
+use map_dfr to make cat_tbl by using our function
+
+#Do the same thing but for Dogs
+
+#Make some informative charts about the cat and dog data
+
+build make_pie_chart function
+  (The function will take in a column and df)
+  make a table with each value and its count and percentage for chosen column
+  use ggplot to make a nice pie chart for the data
+  
+Test the function by making some charts
+
+#Make a df of cats and dogs I would like to adopt, and make an image wall of them
+
+combine the cats and dogs table and filter it down by my requirements
+(orange young cat with medical tasks done, housetrained, ect)
+use markdown to make an image wall as we did in the homework but with cat name and an image
+
+#Find if there is correlation between distance from city and house trained cats
+filter df to distance and housetrained
+use cor to find if there is correlation
+perhaps make graph of map with average number of housetrained based on distance
+use ggplot and the sf to do this
 
