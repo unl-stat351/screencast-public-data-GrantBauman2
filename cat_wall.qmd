@@ -1,0 +1,22 @@
+---
+title: "CAT IMAGE WALL"
+format: html
+---
+
+:::{layout-ncol=3}
+
+![Mickey &amp; Jam (Perfect Pair)](cats/cat_78520582.jpg){fig-alt="Mickey &amp; Jam (Perfect Pair)" width="220"}
+![Tallahassee](cats/cat_78540223.jpg){fig-alt="Tallahassee" width="220"}
+![Matty](cats/cat_78663968.jpg){fig-alt="Matty" width="220"}
+![Salem](cats/cat_78780648.jpg){fig-alt="Salem" width="220"}
+![Apollo](cats/cat_78869912.jpg){fig-alt="Apollo" width="220"}
+![Luna](cats/cat_78972368.jpg){fig-alt="Luna" width="220"}
+![Olive](cats/cat_79043484.jpg){fig-alt="Olive" width="220"}
+![Dorian](cats/cat_79043487.jpg){fig-alt="Dorian" width="220"}
+![Luca](cats/cat_79043488.jpg){fig-alt="Luca" width="220"}
+![Alicia](cats/cat_79043490.jpg){fig-alt="Alicia" width="220"}
+![Elvira](cats/cat_79043494.jpg){fig-alt="Elvira" width="220"}
+![Yoda](cats/cat_79060053.jpg){fig-alt="Yoda" width="220"}
+
+:::
+
